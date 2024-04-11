@@ -6,3 +6,6 @@ which tries to debunk his utterances using AI.
 
 The results are intented to be pubished weekly, and I am looking to improve the results with 
 visuals as well. Most likely [SD](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+
+
+
