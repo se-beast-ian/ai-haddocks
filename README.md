@@ -22,5 +22,12 @@ but rather as a way to convey the Captain's emotions and reactions to the
 events unfolding around him.
 ```
 
+```
+Dunderheaded coconuts:  In the book "The Adventures of Tintin" by Hergé,
+Captain Haddock's comment "Dunderheaded coconuts" is a humorous insult directed at the
+islanders who are acting foolishly. The term "dunderheaded" means silly or absurd, and
+"coconuts" is a slang term for people from the tropics. So, Captain Haddock is implying
+that the islanders are acting like silly, foolish people from the tropics.
+```
 
 
