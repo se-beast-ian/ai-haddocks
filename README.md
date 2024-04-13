@@ -9,4 +9,7 @@ visuals as well. Most likely [SD](https://huggingface.co/stabilityai/stable-diff
 
 The first results are starting to appear [on my mastodon account](https://mastodon.social/@sebs_tech)
 
+> https://mastodon.social/@sebs_tech
+
+
 
