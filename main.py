@@ -30,7 +30,7 @@ file.close()
 response = ollama.chat(model='llama2', messages=[
   {
     'role': 'user',
-    'content': 'What does Captain Haddock mean when he says: {} in less than 300 characters:'.format(randomcurse),
+    'content': 'What does Captain Haddock mean when he says in less than 300 characters: {}'.format(randomcurse),
   },
 ])
 
