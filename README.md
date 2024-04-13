@@ -13,10 +13,9 @@ for this puropuse.
 > https://mastodon.social/@sebs_tech
 
 Some examples of the results
-
-'''
+```
 A million scavenging sea monsters: In the book "The Adventures of Tintin" by Hergé, Captain Haddock's statement "A million scavenging sea monsters!" is an exaggeration and a humorous expression of his frustration and disbelief at the absurdity of the situation he finds himself in. It is not meant to be taken literally, but rather as a way to convey the Captain's emotions and reactions to the events unfolding around him.
-'''
+```
 
 
 
