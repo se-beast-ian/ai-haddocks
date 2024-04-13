@@ -34,11 +34,9 @@ response = ollama.chat(model='llama2', messages=[
   },
 ])
 
-# Print Results
-#print(response['message']['content'])
-
-#result = randomcurse + ':\n' + response['message']['content']
+# Format results
 result = randomcurse + ': ' + str(response['message']['content'])
 
+# Post on Mastodon
 m = Mastodon(access_token="###Your#Key#here####", api_base_url="https://mastodon.social/")
 m.toot(result)
